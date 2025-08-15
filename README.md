@@ -1,7 +1,7 @@
 <h1>Projeto: Apresentar Série </h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de uma tela apresentando uma série, desenvolvido para estudar e práticar JavaScript.</p>
+<p>Projeto front-end de uma tela apresentando uma série, desenvolvido para estudar e praticar JavaScript.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/serie_carrossel-HTML-CSS-JavaScript/" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
