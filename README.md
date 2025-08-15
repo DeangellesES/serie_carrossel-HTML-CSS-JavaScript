@@ -8,7 +8,7 @@
 <h2>🚀 Tecnologias Utilizadas</h2>
 <ul>
   <li><b>HTML</b></li>
-  <li><b>CSS</b></li>
+  <li><b>CSS</b> - Responsivo</li>
   <li><b>JavaScript</b> - vanilla</li>
 </ul>
 
