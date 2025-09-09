@@ -12,7 +12,7 @@
   <li><b>JavaScript</b> - vanilla</li>
 </ul>
 
-<h2>⚙️ Funcionalidades</h2>
+<h2>✨ Funcionalidades</h2>
 <ul>
   <li>Apresentar Série</li>
 </ul>
